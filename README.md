@@ -1,2 +1,2 @@
 # java_interview_question
-java 面试题
+java 笔试题
